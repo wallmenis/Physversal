@@ -2,9 +2,23 @@
 
 Hello there! Thanks for checking the code of this project!
 
-For releases, you can check the itch.io page https://wallmenis.itch.io/physversal
+For releases, and how to run the game you can check the itch.io page https://wallmenis.itch.io/physversal
 
 If you want to check the code or fork the projects, keep reading.
+
+## Building info
+
+If you want to build the project, you might need to know that:
+
+- the Unity version is 2021.3.32.f1
+- the Blender version is 4.0
+- the Visual Studio version is 2022 community edition
+- the Reaper version (for the sound effect projects) is 7.11
+- the Surge XT version (virtual synthesizer and effects for the sound effects) is 1.3.1.4b53827 (CLAP and VST3i versions used)
+
+Different versions might work but these are the ones I used.
+
+## Licenses
 
 The source code, (that is the settings and the *.cs files of the project) is licensed under GPLv3.
 
