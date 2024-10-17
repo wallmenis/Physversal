@@ -1,4 +1,4 @@
-### PHYSVERSAL MOVEMENT SHOOTER SOURCE CODE AND ASSETS
+# PHYSVERSAL MOVEMENT SHOOTER SOURCE CODE AND ASSETS
 
 Hello there! Thanks for checking the code of this project!
 
